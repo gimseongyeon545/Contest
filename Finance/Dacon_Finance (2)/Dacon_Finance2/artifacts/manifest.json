@@ -1,0 +1,8 @@
+{
+  "embed_model": "BAAI/bge-m3",
+  "law_index": "/data/jupyter/minwoo/finance/Dacon_Finance2/index_family",
+  "decree_index": "/data/jupyter/minwoo/finance/Dacon_Finance2/index_ED",
+  "rule_index": "/data/jupyter/minwoo/finance/Dacon_Finance2/index_ER",
+  "reg_index": "/data/jupyter/minwoo/finance/Dacon_Finance2/index_REG",
+  "oper_index": "/data/jupyter/minwoo/finance/Dacon_Finance2/index_BASE"
+}
